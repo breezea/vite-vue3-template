@@ -1,4 +1,3 @@
-console.log("hello world")
 iiiii
 hello world
 what's up
